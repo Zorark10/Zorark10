@@ -1,12 +1,12 @@
-<h1 data-importer="text" align="left">Hey I'm Pranav</h1>
+<h1 data-impoter="text" align="left">Hey I'm Pranav</h1>
 
 ###
 
-<p data-importer="text" align="left">I'm a Computer Applications student focused on **backend development and software engineering**..</p>
+<p data-impoter="text" align="left">I'm a Computer Applications student focused on <b>backend development and software engineering</b>.</p>
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
+<h2 data-impoter="text" align="left">About</h2>
 
 ###
 
