@@ -12,7 +12,6 @@ I'm a Computer Applications student focused on <b>backend development and softwa
 🌱 Currently working with <b>Java and Spring Boot</b><br>
 💻 Building backend applications with <b>REST APIs and Spring Security</b><br>
 🔐 Interested in <b>backend development, databases, and authentication</b><br>
-🚀 Working towards becoming a <b>Java backend developer</b>
 </p>
 
 ###
