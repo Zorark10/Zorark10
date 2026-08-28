@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a Computer Applications student with a growing interest in backend development and software engineering.</p>
+<p data-importer="text" align="left">I'm a Computer Applications student focused on **backend development and software engineering**..</p>
 
 ###
 
@@ -10,24 +10,37 @@
 
 ###
 
-<p data-importer="text" align="left">🌱 Currently learning Java and Spring Boot<br>📚 Building a strong foundation in object-oriented programming and backend development<br>🎯 Working towards becoming a Java backend developer</p>
-
+<p data-impoter="text" align="left">
+-Currently working with <b>Java and Spring Boot</b><br>
+-Building backend applications with <b>REST APIs and Spring Security</b><br>
+-Interested in <b>backend development, databases, and authentication</b><br>
+-Working towards becoming a <b>Java backend developer</b>
+</p>
 ###
 
-<h3 data-importer="text" align="left">Tech Stack<br><br>Languages: C/C++, Python, Java<br>Frameworks: Spring/Spring Boot <br>Tools: Git, GitHub, Maven, Eclipse</h3>
+<p data-impoter="text" align="left">
+<b>Languages:</b> Java, Python, SQL (MySQL), HTML/CSS<br>
+<b>Frameworks:</b> Spring, Spring Boot, Spring Web, Spring Security, JUnit<br>
+<b>Technologies:</b> Spring Data JPA, Hibernate, Lombok, REST APIs, JWT<br>
+<b>Developer Tools:</b> Git, Maven, Postman, VS Code, Eclipse
+</p>
 
 ###
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  />
   <img width="59" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="cplusplus logo"  />
-  <img width="59" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo"  />
   <img width="59" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="55" alt="spring logo"  />
   <img width="59" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="55" alt="tomcat logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="55" alt="maven logo" />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="55" alt="hibernate logo" />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="55" alt="postman logo" />
+  <img width="40" />
+  
 </div>
 
 ###
