@@ -6,12 +6,12 @@ I'm a Computer Applications student focused on <b>backend development and softwa
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="left">Tech Stack</h2>
 
 <p align="left">
-🌱 Currently working with <b>Java and Spring Boot</b><br>
-💻 Building backend applications with <b>REST APIs and Spring Security</b><br>
-🔐 Interested in <b>backend development, databases, and authentication</b><br>
+  🌱 Currently working with <b>Python and Java</b><br>
+  💻 Building backend applications with <b>REST APIs and databases</b><br>
+  🔐 Experienced with <b>Java, Spring Boot, and Spring Security</b><br>
 </p>
 
 ###
@@ -19,10 +19,13 @@ I'm a Computer Applications student focused on <b>backend development and softwa
 <h2 align="left">Tech Stack</h2>
 
 <p align="left">
-<b>Languages:</b> Java, Python, SQL (MySQL), HTML/CSS<br>
-<b>Frameworks:</b> Spring, Spring Boot, Spring Web, Spring Security, JUnit<br>
-<b>Technologies:</b> Spring Data JPA, Hibernate, Lombok, REST APIs, JWT<br>
-<b>Developer Tools:</b> Git, Maven, Postman, VS Code, Eclipse
+  <b>Languages:</b> Python, Java, Javascript<br>
+  <b>Backend:</b> FastAPI, Spring Boot, Spring Security, REST APIs<br>
+  <b>Frontend:</b> React, HTML, CSS, Tailwind CSS<br>
+  <b>Databases:</b> PostgreSQL, MySQL, SQLite<br>
+  <b>ORMs:</b> SQLAlchemy, Hibernate<br>
+  <b>Developer Tools:</b> Git, Maven, Postman, Docker, VS Code, Eclipse<br>
+  <b>Testing:</b> Pytest, JUnit 5, Mockito
 </p>
 
 <div align="center">
@@ -30,15 +33,7 @@ I'm a Computer Applications student focused on <b>backend development and softwa
   <img width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python" />
   <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="sql" />
   <img width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="55" alt="spring" />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="55" alt="hibernate" />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="git" />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="55" alt="maven" />
-  <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="55" alt="postman" />
 </div>
