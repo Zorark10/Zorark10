@@ -6,7 +6,7 @@ I'm a Computer Applications student focused on <b>backend development and softwa
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">About me</h2>
 
 <p align="left">
   🌱 Currently working with <b>Python and Java</b><br>
