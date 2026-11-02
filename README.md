@@ -23,8 +23,9 @@ I'm a Computer Applications student focused on <b>backend development and softwa
   <b>Backend:</b> FastAPI, Spring Boot, Spring Security, REST APIs<br>
   <b>Frontend:</b> React, HTML, CSS, Tailwind CSS<br>
   <b>Databases:</b> PostgreSQL, MySQL, SQLite<br>
+  <b>Messaging & Caching:</b> Apache Kafka, Redis<br>
   <b>ORMs:</b> SQLAlchemy, Hibernate<br>
-  <b>Developer Tools:</b> Git, Maven, Postman, Docker, VS Code, Eclipse<br>
+  <b>Developer Tools:</b> Docker, Git, Maven, Postman, Docker, VS Code, Eclipse<br>
   <b>Testing:</b> Pytest, JUnit 5, Mockito
 </p>
 
